@@ -1,2 +1,1 @@
-# Miner-s-Hell
-mh gui
+-- do not edit for redistribution
